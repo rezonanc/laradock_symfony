@@ -20,7 +20,7 @@
 1. Install dependencies
 
    ```bash
-   docker-compose exec -u laradock workspace composer intall
+   docker-compose exec -u laradock workspace composer install
    ```
 1. Visit http://localhost/
 
